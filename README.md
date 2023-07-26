@@ -1,5 +1,4 @@
-# Talking Data: Comparing Favorites Starter Code
-Fork this project to get started on the project.
+# Talking Data: Comparing Favorites
 
 ### Project Requirements
 Your project should:
